@@ -1,2 +1,2 @@
-# Collision-Detection-
-Detects when the two sprites meet.
+# p5.play-boilerplate
+Boiler plate for p5.play
